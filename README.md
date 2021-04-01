@@ -3,4 +3,9 @@
 
 ## 1학기
 ### 사전교육
-- [git&github 기초](./1st-semester/01.md)
+- [git&github 기초](./1st-semester/pre/01.md)
+### 1주차
+- [branch name 변경, Live Server 설치](./1st-semester/1st/01.md)
+- [웹기초](./1st-semester/1st/02.md)
+- [HTML](./1st-semester/1st/03.md)
+- [CSS](./1st-semester/1st/04.md)
