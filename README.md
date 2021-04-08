@@ -9,3 +9,6 @@
 - [웹기초](./1st-semester/1st/02.md)
 - [HTML](./1st-semester/1st/03.md)
 - [CSS](./1st-semester/1st/04.md)
+### 2주차
+- [django 개발환경세팅](./1st-semester/2nd/01.md)
+- [HTML 화면에 띄우기(app, template, url, view)](./1st-semester/2nd/02.md)
