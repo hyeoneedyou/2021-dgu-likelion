@@ -12,3 +12,7 @@
 ### 2주차
 - [django 개발환경세팅](./1st-semester/2nd/01.md)
 - [HTML 화면에 띄우기(app, template, url, view)](./1st-semester/2nd/02.md)
+### 3주차
+- [Django URL 연결하기](./1st-semester/3rd/01.md)
+- [templates 상속, include](./1st-semester/3rd/02.md)
+- [Static](./1st-semester/3rd/03.md)
