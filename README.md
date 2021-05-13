@@ -16,3 +16,9 @@
 - [Django URL 연결하기](./1st-semester/3rd/01.md)
 - [templates 상속, include](./1st-semester/3rd/02.md)
 - [Static](./1st-semester/3rd/03.md)
+### 4주차
+- [MTV pattern](./1st-semester/4th/01.md)
+- [Model](./1st-semester/4th/02.md)
+- [Admin](./1st-semester/4th/03.md)
+- [Read](./1st-semester/4th/04.md)
+- [Create](./1st-semester/4th/05.md)
